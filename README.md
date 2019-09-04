@@ -1,0 +1,1 @@
+# android_vendor_allwinner_astar
